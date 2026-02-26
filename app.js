@@ -1,2 +1,2 @@
-// Add new feature 
+// Add new features in App.js
 
